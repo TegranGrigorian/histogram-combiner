@@ -8,7 +8,7 @@ Line follower and Wall follower. Man copilot for comments is nice
 
 #improts
 import matplotlib.pyplot as plt
-import plot
+import backend.plot as plot
 
 #input data for line follower
 line_follower_times = [
